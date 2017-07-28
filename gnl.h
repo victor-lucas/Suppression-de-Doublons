@@ -1,11 +1,3 @@
-/*
-** Get_Next_Line library
-** Only for Minishell1, Navy, Tetris and Minishell2 project
-**
-** Rank=-42 for other projects !
-**
-*/
-
 #ifndef	__LIBGNL__
 #define	__LIBGNL__
 
